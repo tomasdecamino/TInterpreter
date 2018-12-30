@@ -22,3 +22,10 @@ void ledOn() {
   digitalWrite(13,HIGH);
 }
 ```
+Una vez hecho esto, se puede ejecutar una secuencia de comandos en un String.  Entonces,
+```
+interpreter.execute("PPPP");
+```
+Esto ejecuta cuatro veces la función ledOn.
+
+Este intérprete es muy práctico para enviar comandos a Arduino a través de puerto serial, para hacer alguna interfaz como en Processing.
