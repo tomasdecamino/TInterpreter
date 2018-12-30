@@ -2,7 +2,7 @@
    Sophisticated Blink
    Written by Tomas de Camino Beck for FunCR
    
-   Just open the serial monitor and send something like "P++++A+++" 
+   Just open the serial monitor and send something like "P++++A++" 
    this will blink on twice as long as off
 
 */
