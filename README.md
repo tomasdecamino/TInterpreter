@@ -1,5 +1,5 @@
 # TInterpreter
-Un interprete sencillo de comandos de caracter.  Una secuencia de comandos es un string, donde cada letra es un literal al cual se le puede asociar una función.
+Un interprete sencillo de comandos de caracter que se puede utilizar con microcontroladores como Arduino.  Una secuencia de comandos es un string, donde cada letra es un literal al cual se le puede asociar una función.
 
 Se provee un ejemplo sencillo de uso haciendo un Blink. El ejemplo es suficientemente sencillo para entender su utilización. Básicamente se crear un función o procedimiento con las aciones que el microcontrolador requiere hacer, y este luego se asocia a literal
 
